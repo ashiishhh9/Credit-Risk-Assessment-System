@@ -1,0 +1,25 @@
+Feature,Mean_ABS_SHAP
+Age,0.58091825
+InterestRate,0.4498547
+MonthsEmployed,0.31788626
+Income,0.3030035
+LoanAmount,0.27464086
+HasCoSigner_Yes,0.122842506
+HasDependents_Yes,0.120735295
+CreditScore,0.11086478
+NumCreditLines,0.10411955
+EmploymentType_Unemployed,0.10194599
+MaritalStatus_Married,0.08297053
+HasMortgage_Yes,0.077494815
+DTIRatio,0.075541995
+LoanPurpose_Home,0.057530466
+EmploymentType_Self-employed,0.05666578
+EmploymentType_Part-time,0.0554557
+Education_PhD,0.040782742
+Education_Master's,0.0396291
+Education_High School,0.03900354
+LoanTerm,0.015479085
+MaritalStatus_Single,0.015228274
+LoanPurpose_Business,0.013205417
+LoanPurpose_Other,0.00555044
+LoanPurpose_Education,0.005213575
